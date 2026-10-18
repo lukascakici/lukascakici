@@ -6,9 +6,7 @@
 - 👀 Know about my experiences [linkedin.com/lukascakici](https://www.linkedin.com/in/lukascakici/)
 
 
-![](https://github-readme-stats.vercel.app/api?username=lukascakici&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lukascakici&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lukascakici&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 

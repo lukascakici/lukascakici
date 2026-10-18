@@ -6,8 +6,6 @@
 - 👀 Know about my experiences [linkedin.com/lukascakici](https://www.linkedin.com/in/lukascakici/)
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=lukascakici&theme=vue-dark&hide_border=false)<br/>
-
 
 
 
